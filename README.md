@@ -14,7 +14,7 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 - 📡 RESTful APIs with Express
 - 📤 Image/File Uploads (Optional)
 
----
+
 
 ## 🛠️ Tech Stack
 
